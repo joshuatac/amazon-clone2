@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1923fc07.chunk.css",
+    "main.js": "/static/js/main.efadcf65.chunk.js",
+    "main.js.map": "/static/js/main.efadcf65.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.90140090.js",
+    "runtime-main.js.map": "/static/js/runtime-main.90140090.js.map",
+    "static/js/2.4e940891.chunk.js": "/static/js/2.4e940891.chunk.js",
+    "static/js/2.4e940891.chunk.js.map": "/static/js/2.4e940891.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.ee864ff2db5d29f680785eee0fcf714e.js": "/precache-manifest.ee864ff2db5d29f680785eee0fcf714e.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.1923fc07.chunk.css.map": "/static/css/main.1923fc07.chunk.css.map",
+    "static/js/2.4e940891.chunk.js.LICENSE.txt": "/static/js/2.4e940891.chunk.js.LICENSE.txt",
+    "static/media/amazon logo.png": "/static/media/amazon logo.f1b7fec6.png",
+    "static/media/banner.jpg": "/static/media/banner.eafab5dc.jpg",
+    "static/media/checkout_banner.jpg": "/static/media/checkout_banner.580078d2.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.90140090.js",
+    "static/js/2.4e940891.chunk.js",
+    "static/css/main.1923fc07.chunk.css",
+    "static/js/main.efadcf65.chunk.js"
+  ]
+}
